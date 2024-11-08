@@ -167,7 +167,7 @@ textarea {
 @media screen and (max-width:950px) {
 
     .header {
-        margin: 26px 34px 6px 34px;
+        margin: 26px 34px 6px 60px;
         padding: 5px;
     }
     .header img {
@@ -176,6 +176,17 @@ textarea {
     
     .header a {
         font-size: 16px;
+    }
+
+    .header a:hover {
+        color: #C51111;
+        font-size: 16px;
+        transition: 0.6s ease-in-out;
+    }
+
+    .link-whatsapp:hover {
+        transition: 0.6s ease-in-out;
+        opacity: 0.6;
     }
     
     .mario-luigi{
@@ -196,6 +207,7 @@ textarea {
         align-items: center;
         flex-direction: column;
     }
+
 }
     
 
