@@ -12,6 +12,13 @@
 <br>
 <br>
 
-### <h2>Projeto responsivo a diversos tipos de telas:</h2>
+### <h2>Projeto responsivo em outras telas:</h2>
+<br>
 
-
+<h3>Desktop</h3>
+<h3 align="center"><img src ="https://github.com/phmarqp/Project-Mario-Encanador/blob/master/assets/Desktop%20-%20Mario.png?raw=true"</h3>
+<br>
+<br>
+<br>
+<h3>Mobile</h3>
+<h3 align="center"><img src ="https://github.com/phmarqp/Project-Mario-Encanador/blob/master/assets/Mobile-%20Mario.png?raw=true"</h3>
